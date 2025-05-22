@@ -13,3 +13,11 @@
 ```
 run.py
 ```
+
+
+## Acknowledgments
+Some of the codes are adapted from: 
+* https://github.com/MediaBrain-SJTU/pFedGraph
+
+The comparative algorithms in this paper come from: 
+* https://github.com/MediaBrain-SJTU/FedDisco

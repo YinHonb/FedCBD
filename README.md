@@ -10,4 +10,4 @@
 * Numpy 1.26.0
 
 ## Quick run
-run.py
+```run.py```

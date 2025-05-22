@@ -8,3 +8,6 @@
 * Torchvision 0.16.0
 * Torchtext 0.16.0
 * Numpy 1.26.0
+
+## Quick run
+run.py

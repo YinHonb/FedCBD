@@ -13,11 +13,18 @@
 ```
 run.py
 ```
+### The description of main files
+1. FedCBD.py: FedCBD class files, including the implementation process of algorithms;
+2. config.py: algorithm configuration file;
 
 
-## Acknowledgments
+
+## Acknowledgement
 Some of the codes are adapted from: 
 * https://github.com/MediaBrain-SJTU/pFedGraph
+* https://github.com/TsingZ0/PFLlib
 
 The comparative algorithms in this paper come from: 
+* https://github.com/MediaBrain-SJTU/pFedGraph
 * https://github.com/MediaBrain-SJTU/FedDisco
+* https://github.com/ubc-tea/Local-Superior-Soups

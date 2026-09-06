@@ -1,4 +1,4 @@
-# FedCBD: A Collective Behaviors Dynamics Approach for Personalized Federated Learning, submitted to NIPS 2025
+# FedCBD: A Collective Behaviors Dynamics Approach for Personalized Federated Learning, submitted to TMC
 
 ## Suggested environment
 * CUDA 12.1
